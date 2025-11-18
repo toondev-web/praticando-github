@@ -1,0 +1,7 @@
+1 cd + o arquivo
+2 git init 
+3 git add = nome do arquivo
+4 git commit -m ""
+5 GitHub e criar o repositório 
+6 puchar os arquivos com git pull
+7 enviar com git push 
