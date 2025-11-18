@@ -7,3 +7,4 @@
 7 enviar com git push 
 
 8 não esqueça do branch antes de tudo
+PARABENS VOCÊ APRENDEU .
