@@ -5,3 +5,5 @@
 5 GitHub e criar o repositório 
 6 puchar os arquivos com git pull
 7 enviar com git push 
+
+8 não esqueça do branch antes de tudo
